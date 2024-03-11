@@ -1,1 +1,1 @@
-![Language](https://img.shields.io/badge/language-c++-brightgreen)  #静态图标
+![Language](https://img.shields.io/badge/language-python-brightgreen)  #
