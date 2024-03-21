@@ -33,6 +33,8 @@ Go to scBasset gitHub to install required packages or use:
 conda env create -f env_scb.yml 
 ```
 to set up environment for scBasset
+
+
 Visit notebooks in order: 
 1. [Construct train and validation datasets for scBasset](https://github.com/ml5376/thesis/blob/new/paper_reproduce/make_anndata.ipynb) 
 2. [Training process/logs](https://github.com/ml5376/thesis/blob/new/paper_reproduce/continue_training.ipynb) 
